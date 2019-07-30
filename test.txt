@@ -1,0 +1,11 @@
+6
+Iceland 2016
+England 2002
+America 2005
+Bulgaria 2005
+Poland 4003
+SouthAfrica 2008
+3
+Iceland 1
+Iceland 1
+SouthAfrica 1
